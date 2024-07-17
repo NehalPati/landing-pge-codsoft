@@ -1,1 +1,2 @@
-# landing-pge-codsoft
+# CODSOFT
+LANDING PAGE
